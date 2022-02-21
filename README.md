@@ -26,6 +26,6 @@ Gracias :)
 
 [Sales_Analysis DashBoard](https://github.com/COOLMudi/Mudit_Power_Bi_projects/blob/main/Global%20Supermarket%20Sales/sales_dashboard.PNG)
 
-## EDA Analysis and Feature Engineering Summary
+## DashBoard Gallery
 
 ![(1) Sales_Analysis DashBoard](https://github.com/COOLMudi/Mudit_Power_Bi_projects/blob/main/Global%20Supermarket%20Sales/sales_dashboard.PNG)
